@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@ant-design/icons-vue": "./@ant-design/icons-vue.js",
+    "ant-design-vue": "./ant-design-vue.js",
+    "vue": "./vue/dist/vue.esm-bundler.js",
+    "vue/dist/vue.esm-bundler.js": "./vue/dist/vue.esm-bundler.js"
+  }
+}
